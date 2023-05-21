@@ -6,4 +6,4 @@ echo "Probando con branch de git";
 
 echo "prueba exitosa en github";
 
-echo "Trabajando en ramaC";
+echo "Trabajando en ramaC y github";
